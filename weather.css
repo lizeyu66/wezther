@@ -181,6 +181,7 @@ li h1{
 	bottom: 0;
 	margin: auto;
 	z-index: 999;
+	overflow-y: scroll;
 
 }
 header{
