@@ -1,6 +1,5 @@
 window.onload=function(){
-    resize(1080,"x");     
-    // 设计稿尺寸
+    resize(1080,"x");
 }
 function resize(originSize,type){
     // originSize = 750;
